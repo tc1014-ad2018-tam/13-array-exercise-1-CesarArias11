@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 int main() {
- // This variable will store the the quantity of numbers that the user wants to enter.
+ // This variable will store the quantity of numbers that the user wants to enter.
     int n;
 
     printf("How many numbers would you like to enter?");
